@@ -1,0 +1,4 @@
+subject-id,subject-name,grade
+871-216,Database Management,A
+871-218,Data communication,C+
+871-326,Network programming,B

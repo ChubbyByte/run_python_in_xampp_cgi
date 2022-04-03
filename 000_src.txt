@@ -1,0 +1,5 @@
+Running Python script with XAMPP ::
+https://medium.com/@aattawut.field/running-python-script-with-xampp-5eaa7dc636cf
+https://stackoverflow.com/questions/42704846/running-python-scripts-with-xampp
+
+test folder --> D:\xampp\htdocs
